@@ -32,7 +32,7 @@ First of all, download and install [Python](https://www.python.org/downloads/) a
 
 ### 💻 Run Project
 
-- Check Project Wiki for more details.
+- Check [Project Wiki](https://github.com/Abhijith14/Project-CVM/wiki) for more details.
 
 Start [project.py](project.py).
 
