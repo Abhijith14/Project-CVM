@@ -34,7 +34,7 @@ First of all, download and install [Python](https://www.python.org/downloads/) a
 
 - Check Project Wiki for more details.
 
-Start [project.py](project.py) in the main computer.
+Start [project.py](project.py).
 
 ```bash
 python project.py
