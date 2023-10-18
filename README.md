@@ -1,5 +1,5 @@
 <p align="center">
-<img src='readme_assets/logo.png' align="center" width=800>
+<img src='readme_assets/logo.png' align="center" width=500>
 </p>
 <h1 align="center">
   PROJECT-CVM
